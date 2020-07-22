@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8e0b1245.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.5bbd7b16.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.5bbd7b16.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e4c20c21.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e4c20c21.js.map",
+    "static/js/2.73ea0d0c.chunk.js": "/react-portfolio/static/js/2.73ea0d0c.chunk.js",
+    "static/js/2.73ea0d0c.chunk.js.map": "/react-portfolio/static/js/2.73ea0d0c.chunk.js.map",
+    "static/css/3.db0b62c7.chunk.css": "/react-portfolio/static/css/3.db0b62c7.chunk.css",
+    "static/js/3.24529e82.chunk.js": "/react-portfolio/static/js/3.24529e82.chunk.js",
+    "static/js/3.24529e82.chunk.js.map": "/react-portfolio/static/js/3.24529e82.chunk.js.map",
+    "static/css/4.01c87591.chunk.css": "/react-portfolio/static/css/4.01c87591.chunk.css",
+    "static/js/4.fdbd3849.chunk.js": "/react-portfolio/static/js/4.fdbd3849.chunk.js",
+    "static/js/4.fdbd3849.chunk.js.map": "/react-portfolio/static/js/4.fdbd3849.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.d2418cebc12f725569f69f90d35e06b1.js": "/react-portfolio/precache-manifest.d2418cebc12f725569f69f90d35e06b1.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/3.db0b62c7.chunk.css.map": "/react-portfolio/static/css/3.db0b62c7.chunk.css.map",
+    "static/css/4.01c87591.chunk.css.map": "/react-portfolio/static/css/4.01c87591.chunk.css.map",
+    "static/css/main.8e0b1245.chunk.css.map": "/react-portfolio/static/css/main.8e0b1245.chunk.css.map",
+    "static/media/2842680new.jpg": "/react-portfolio/static/media/2842680new.dda8c45f.jpg",
+    "static/media/index.css": "/react-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/codeInLogo.webp": "/react-portfolio/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMail.webp": "/react-portfolio/static/media/contactMail.68e84138.webp",
+    "static/media/googleAssistantLogo.webp": "/react-portfolio/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.25bf045c.svg",
+    "static/media/nextuLogo.webp": "/react-portfolio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/pwaLogo.webp": "/react-portfolio/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/saayaHealthLogo.webp": "/react-portfolio/static/media/saayaHealthLogo.25018d29.webp",
+    "static/media/skill.svg": "/react-portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/react-portfolio/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4c20c21.js",
+    "static/js/2.73ea0d0c.chunk.js",
+    "static/css/main.8e0b1245.chunk.css",
+    "static/js/main.5bbd7b16.chunk.js"
+  ]
+}
