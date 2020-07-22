@@ -1,3 +1,4 @@
 Live: https://qasimjaffry.github.io/react-portfolio/
 
-Developed using React
+Great help from this repository. Do check them out
+https://github.com/saadpasta/developerFolio
